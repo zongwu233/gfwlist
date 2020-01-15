@@ -1389,7 +1389,6 @@ blogspot.com
 ||googlescholar.com
 ||googlesource.com
 !--||googlesyndication.com
-!--||googletagmanager.com
 !--||googletagservices.com
 ||googleusercontent.com
 .googlevideo.com
@@ -1398,7 +1397,7 @@ blogspot.com
 ||googlezip.net
 ||groups.google.cn
 ||grow.google
-||ssl.gstatic.com
+||gstatic.com
 !--||gv.com
 ||gvt0.com
 ||gvt1.com
