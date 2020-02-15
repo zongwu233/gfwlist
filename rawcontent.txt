@@ -3673,7 +3673,7 @@ hahaxixi.github.io
 wsgzao.github.io
 |https://wsgzao.github.io
 !--.github.io
-||raw.githubusercontent.com
+||githubusercontent.com
 
 .gizlen.net
 ||gizlen.net
