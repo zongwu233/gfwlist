@@ -51,6 +51,7 @@
 ||counter.social
 ||costco.com
 ||crossfire.co.kr
+||christianposta.com
 ||d2pass.com
 ||darpa.mil
 ||dawangidc.com
@@ -232,6 +233,7 @@ share.dmhy.org
 |http://ecsm.vs.com/
 ||wanz-factory.com
 ||ssl.webpack.de
+||webassembly.org
 ||wheretowatch.com
 ||wingamestore.com
 ||wizcrafts.net
