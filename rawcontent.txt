@@ -385,6 +385,7 @@ share.dmhy.org
 ||sosreader.com
 ||sspanel.net
 ||sulian.me
+||slack.com
 ||supchina.com
 ||teddysun.com
 ||textnow.me
