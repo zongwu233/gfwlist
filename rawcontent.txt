@@ -199,6 +199,7 @@ share.dmhy.org
 |http://cdn*.search.xxx/
 ||shiksha.com
 ||slacker.com
+||slack-edge.com
 ||sm-miracle.com
 ||soylentnews.org
 ||spotify.com
