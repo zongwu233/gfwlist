@@ -1429,6 +1429,7 @@ blogspot.com
 ||api.recaptcha.net
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
+||www.recaptcha.net
 ||redhotlabs.com
 ||registry.google
 ||safety.google
