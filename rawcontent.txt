@@ -61,6 +61,7 @@
 ||discordapp.com
 ||discordapp.net
 ||dish.com
+||diesel.rs
 |http://img.dlsite.jp/
 ||dm530.net
 share.dmhy.org
