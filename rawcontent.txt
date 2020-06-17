@@ -195,6 +195,7 @@ share.dmhy.org
 ||rd.com
 ||rdio.com
 |https://riseup.net
+||springer.com
 ||sadistic-v.com
 ||isc.sans.edu
 |http://cdn*.search.xxx/
