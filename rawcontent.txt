@@ -21,6 +21,7 @@
 !--||adorama.com
 ||agnesb.fr
 ||akiba-web.com
+||akka.io
 ||altrec.com
 ||angela-merkel.de
 ||angola.org
