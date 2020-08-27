@@ -92,6 +92,7 @@ share.dmhy.org
 ||getuploader.com
 !--|https://github.com/programthink/zhao
 |https://raw.githubusercontent.com/programthink/zhao
+||githubassets.com
 ||glass8.eu
 ||glype.com
 ||go141.com
