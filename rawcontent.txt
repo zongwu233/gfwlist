@@ -6906,13 +6906,7 @@ tuitwit.com
 |http://tw01.org
 
 !---Tumblr---
-.tumblr.com
 ||tumblr.com
-!--@@||assets.tumblr.com
-!--@@||data.tumblr.com
-!--@@||media.tumblr.com
-!--@@||static.tumblr.com
-!--@@||www.tumblr.com
 ||lecloud.net
 |http://cosmic.monar.ch
 ||slutmoonbeam.com
