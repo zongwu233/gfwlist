@@ -221,6 +221,8 @@ share.dmhy.org
 ||login.target.com
 !--@@||intl.target.com
 ||rcam.target.com
+||v2fly.org
+||v2ray.org
 ||thinkgeek.com
 ||thebodyshop-usa.com
 ||tripleo.org
