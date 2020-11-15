@@ -7936,6 +7936,7 @@ ultrasurf
 
 !################Whitelist Start################
 @@||aliyun.com
+@@||alicdn.com
 @@||baidu.com
 !--@@||bing.com
 @@||chinaso.com
