@@ -251,6 +251,7 @@ share.dmhy.org
 ||vod.wwe.com
 ||xfinity.com
 ||youwin.com
+||yew.rs
 ||ytn.co.kr
 ||zattoo.com
 ||zim.vn
