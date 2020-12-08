@@ -1318,6 +1318,7 @@ blogspot.com
 ||godoc.org
 ||golang.org
 ||goo.gl
+||googol.im
 .google.ae
 .google.as
 .google.am
