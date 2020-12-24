@@ -48,6 +48,7 @@
 ||centauro.com.br
 ||chobit.cc
 ||clearsurance.com
+||cloudfront.net
 ||images.comico.tw
 ||static.comico.tw
 ||counter.social
