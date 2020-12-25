@@ -2528,8 +2528,6 @@ ccue.com
 ||cdig.info
 cdjp.org
 ||cdjp.org
-.cdn-apple.com
-||cdn-apple.com
 .cdnews.com.tw
 cdp1989.org
 cdp1998.org
