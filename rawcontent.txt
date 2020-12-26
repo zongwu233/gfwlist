@@ -204,6 +204,7 @@ share.dmhy.org
 ||sadistic-v.com
 ||isc.sans.edu
 |http://cdn*.search.xxx/
+||rust-lang.org
 ||shiksha.com
 ||slacker.com
 ||slack-edge.com
