@@ -71,6 +71,7 @@ share.dmhy.org
 ||dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
+||download.eclipse.org
 ||dnvod.tv
 ||dvdpac.com
 ||eesti.ee
