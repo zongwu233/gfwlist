@@ -149,6 +149,7 @@ share.dmhy.org
 ||matome-plus.net
 ||mattwilcox.net
 ||metarthunter.com
+||melpa.org
 ||mfxmedia.com
 ||mojim.com
 ||kb.monitorware.com
