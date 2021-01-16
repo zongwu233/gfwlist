@@ -53,6 +53,7 @@
 ||static.comico.tw
 ||counter.social
 ||costco.com
+||coolshell.cn
 ||crossfire.co.kr
 ||christianposta.com
 ||d2pass.com
